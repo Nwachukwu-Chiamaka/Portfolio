@@ -20,15 +20,20 @@ section {
 
 h2 {
     color: #333;
+    font-size: 3em;
+    margin: 0;
+}
+ul {
+    font-size: 1.3em;
+}
+p {
+    font-size: 1.5em;
+    font-family:sans-serif;
 }
 
 .project {
     margin-bottom: 20px;
-}
-
-.project img {
-    max-width: 100%;
-    height: auto;
+    margin: 0cd;
 }
 
 footer {
